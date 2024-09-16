@@ -1,4 +1,4 @@
-package oops_practice.Thread;
+package Thread;
 
 
 class Mythread2 extends Thread

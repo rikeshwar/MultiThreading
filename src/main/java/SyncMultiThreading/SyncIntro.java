@@ -1,4 +1,4 @@
-package oops_practice.SyncMultiThreading;
+package SyncMultiThreading;
 
 //when multiple Thread try to work on shared resources could end up in some trouble
 

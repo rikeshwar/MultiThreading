@@ -1,4 +1,4 @@
-package oops_practice.Thread;
+package Thread;
 
 
 //now we will inherit the Thread class and ovveride run method

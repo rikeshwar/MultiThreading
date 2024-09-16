@@ -1,4 +1,4 @@
-package oops_practice.SyncMultiThreading;
+package SyncMultiThreading;
 
 public class SyncIntro2 {
     public static int count=0;

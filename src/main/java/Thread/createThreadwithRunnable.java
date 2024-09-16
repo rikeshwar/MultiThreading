@@ -1,4 +1,4 @@
-package oops_practice.Thread;
+package Thread;
 
 //here we intead onherit Thread class which is implementing runnable
 //interface with contract of method run

@@ -1,4 +1,4 @@
-package oops_practice.Thread;
+package Thread;
 
 //callable is the altername of Runnable where it can return any generic
 //and will be usefull if we wann tHread to execute the task and return the value
@@ -8,7 +8,10 @@ package oops_practice.Thread;
 //java provide Future<> container and let main Thread or calling Thread continue its task
 
 import java.util.List;
-import java.util.concurrent.*;
+import java.util.concurrent.Callable;
+import java.util.concurrent.ExecutorService;
+import java.util.concurrent.Executors;
+import java.util.concurrent.Future;
 import java.util.stream.Collectors;
 
 class Mycallable implements Callable<List<Double>> {
